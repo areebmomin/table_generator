@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Numeric Table Generator</string>
+    <string name="enter_maximum_value">Max value</string>
+</resources>
